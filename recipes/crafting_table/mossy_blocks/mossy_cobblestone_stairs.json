@@ -1,0 +1,17 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "uncrafting:mossy_cobblestone_stairs_unmesh"
+    },
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      {
+        "item": "minecraft:mossy_cobblestone_stairs"
+      }
+    ],
+    "result": {
+      "item": "minecraft:stone_stairs"
+    }
+  }
+}
