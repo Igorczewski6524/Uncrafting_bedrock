@@ -1,0 +1,17 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "uncrafting:mossy_stone_brick_stairs_unmesh"
+    },
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      {
+        "item": "minecraft:mossy_stone_brick_stairs"
+      }
+    ],
+    "result": {
+      "item": "minecraft:stone_brick_stairs"
+    }
+  }
+}
