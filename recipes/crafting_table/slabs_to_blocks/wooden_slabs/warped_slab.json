@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "uncrafting:warped_slab__slabs_to_blocks"
+    },
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      {
+        "item": "minecraft:warped_slab"
+      },
+      {
+        "item": "minecraft:warped_slab"
+      }
+    ],
+    "result": {
+      "item": "minecraft:warped_planks"
+    }
+  }
+}

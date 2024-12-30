@@ -1,0 +1,24 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "uncrafting:crimson_hyphae__wood_to_logs"
+    },
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      {
+        "item": "minecraft:crimson_hyphae"
+      },
+      {
+        "item": "minecraft:crimson_hyphae"
+      },
+      {
+        "item": "minecraft:crimson_hyphae"
+      }
+    ],
+    "result": {
+      "item": "minecraft:crimson_stem",
+      "count": 4
+    }
+  }
+}

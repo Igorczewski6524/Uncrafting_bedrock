@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "uncrafting:bamboo_slab__slabs_to_blocks"
+    },
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      {
+        "item": "minecraft:bamboo_slab"
+      },
+      {
+        "item": "minecraft:bamboo_slab"
+      },
+      {
+        "item": "minecraft:bamboo_slab"
+      },
+      {
+        "item": "minecraft:bamboo_slab"
+      }
+    ],
+    "result": {
+      "item": "minecraft:bamboo_planks",
+      "count": 2
+    }
+  }
+}
