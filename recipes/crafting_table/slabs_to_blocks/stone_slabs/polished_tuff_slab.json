@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "uncrafting:polished_tuff_slab__slabs_to_blocks"
+    },
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      {
+        "item": "minecraft:polished_tuff_slab"
+      },
+      {
+        "item": "minecraft:polished_tuff_slab"
+      }
+    ],
+    "result": {
+      "item": "minecraft:polished_tuff"
+    }
+  }
+}

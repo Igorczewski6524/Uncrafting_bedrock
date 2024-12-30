@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "uncrafting:diorite_slab__slabs_to_blocks"
+    },
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      {
+        "item": "minecraft:diorite_slab"
+      },
+      {
+        "item": "minecraft:diorite_slab"
+      }
+    ],
+    "result": {
+      "item": "minecraft:diorite"
+    }
+  }
+}
