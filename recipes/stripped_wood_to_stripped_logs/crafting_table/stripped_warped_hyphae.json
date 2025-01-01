@@ -1,0 +1,24 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "uncrafting:stripped_warped_hyphae__stripped_wood_to_stripped_logs__crafting_table"
+    },
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      {
+        "item": "minecraft:stripped_warped_hyphae"
+      },
+      {
+        "item": "minecraft:stripped_warped_hyphae"
+      },
+      {
+        "item": "minecraft:stripped_warped_hyphae"
+      }
+    ],
+    "result": {
+      "item": "minecraft:stripped_warped_stem",
+      "count": 4
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "uncrafting:stripped_dark_oak_wood__stripped_wood_to_stripped_logs__crafting_table"
+    },
+    "tags": [ "crafting_table" ],
+    "ingredients": [
+      {
+        "item": "minecraft:stripped_dark_oak_wood"
+      },
+      {
+        "item": "minecraft:stripped_dark_oak_wood"
+      },
+      {
+        "item": "minecraft:stripped_dark_oak_wood"
+      }
+    ],
+    "result": {
+      "item": "minecraft:stripped_dark_oak_log",
+      "count": 4
+    }
+  }
+}

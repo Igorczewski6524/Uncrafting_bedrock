@@ -4,7 +4,7 @@
     "description": {
       "identifier": "uncrafting:mossy_cobblestone_wall_unmesh"
     },
-    "tags": [ "crafting_table" ],
+    "tags": [ "crafting_table", "stonecutter"],
     "ingredients": [
       {
         "item": "minecraft:mossy_cobblestone_wall"

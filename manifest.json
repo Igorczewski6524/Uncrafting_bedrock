@@ -4,7 +4,7 @@
       "description": "uncraft items such as slabs, wood, etc.",
       "name": "Uncrafting",
       "uuid": "b650f79c-79ff-43a2-98c7-b06e38e9885f",
-      "version": [1, 0, 0],
+      "version": [1, 1, 0],
       "min_engine_version": [1, 20, 0]
   },
   "modules": [

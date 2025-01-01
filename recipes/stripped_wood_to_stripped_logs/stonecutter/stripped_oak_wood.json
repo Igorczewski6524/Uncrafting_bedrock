@@ -1,0 +1,18 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "uncrafting:stripped_oak_wood__stripped_wood_to_stripped_logs__stonecutter"
+    },
+    "tags": [ "stonecutter" ],
+    "ingredients": [
+      {
+        "item": "minecraft:stripped_oak_wood"
+      }
+    ],
+    "result": {
+      "item": "minecraft:stripped_oak_log",
+      "count": 1
+    }
+  }
+}
